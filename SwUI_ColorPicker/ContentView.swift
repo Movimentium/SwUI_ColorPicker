@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwUI_ColorPicker
 //
-//  Created by Miguel on 7/10/22.
+//  Created by Miguel Gallego on 7/10/22.
 //
 
 import SwiftUI
